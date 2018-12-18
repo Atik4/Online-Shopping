@@ -1,2 +1,2 @@
 # Online-Shopping
-Onlinw shopping website in progress
+Online shopping website in progress
