@@ -1,0 +1,48 @@
+.navbar-brand{
+	margin-right: 3.5rem;
+}
+
+/*@media (min-width: 576px) .mr-sm-2, .mx-sm-2{
+	margin-right: 0;
+}*/
+
+.form-control{
+	margin-right: 0;
+}
+
+#search{
+	width: 450px;
+	margin-right: 0;
+}
+
+#search-button{
+	color: white;
+	border-color: white;
+}
+
+#search-button:hover{
+	background-color: white;
+	color: #212529;
+}
+
+#rightnav{
+padding-right: 3rem;
+}
+
+.nav-item{
+	padding-right: 1.5rem;
+}
+
+#advertise{
+	margin-right: .5rem;
+}
+
+#download{
+	margin-right: .5rem;
+}
+
+#sellimg{
+	width: 26px;
+	height: 16px;
+	margin-right: .5rem;
+}
